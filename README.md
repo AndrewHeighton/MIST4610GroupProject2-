@@ -2,12 +2,12 @@
 # Group 1 Project 2
 
 ### Team Members
-#### Lauren Harville - @4610LaurenGit
-#### Andrew Heighton - @AndrewHeighton
-#### Asanti Kumera - @asanti00
-#### Aidan Pfeiffer - @abp80036
-#### Doc Rush - @docrush
-#### Violet Sofish - @VioletSofish
+#### Lauren Harville - [@4610LaurenGit](https://github.com/4610LaurenGit/MIST4610GroupProject2)
+#### Andrew Heighton - [@AndrewHeighton](https://github.com/AndrewHeighton/MIST4610GroupProject2-.git)
+#### Asanti Kumera - [@asanti00](https://github.com/asanti00/MIST4610GroupProject2)
+#### Aidan Pfeiffer - [@abp80036](https://github.com/abp80036/MIST4610GroupProject2.git)
+#### Doc Rush - [@docrush](https://github.com/docrush/MIST4610GroupProject2)
+#### Violet Sofish - [@VioletSofish](https://github.com/VioletSofish/4610-Group-Project-2)
 
 
 ## Dataset Description
